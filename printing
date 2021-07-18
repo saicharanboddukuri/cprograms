@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+printf("Hi using git for first time":);
+return 0;
+}
